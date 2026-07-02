@@ -1,7 +1,7 @@
 # dublin-emergency-services-gis
 Spatial analysis of emergency incidents, hospital accessibility, fire station coverage, and flood risk in Dublin City using PostgreSQL and PostGIS.
 
-##Project Overview
+## Project Overview
 
 This project demonstrates how PostgreSQL and PostGIS can be used to perform advanced Geographic Information System (GIS) analysis for emergency service planning in Dublin City, Ireland.
 
